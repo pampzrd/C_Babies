@@ -4,12 +4,12 @@
 
 void main(){
 
-  char jon[7]= "Te amo"; 
-    //declarei uma variável chamada Jon
-    //que contem uma frase
+  char brad[7]= "Te amo"; 
+    //declarei uma variável chamada Brad
+    //que contém uma frase
 
 
-    printf("Eu disse que %s\n",jon); 
+    printf("Eu disse que %s\n",brad); 
     //imprime na tela o que está dentro da variável
    
 }
